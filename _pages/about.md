@@ -17,16 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a M.S. student in Tianjin Key Laboratory of Visual Computing and Intelligent Perception (VCIP) and Media Computing Lab (MCLab) at the College of Computer Science, Nankai University, supervised by Prof. [Xialei Liu](https://mmcheng.net/xliu/). Prior to this, I received my bachelor’s degree from College of Cyberspace Security, Nankai University.
+I am currently a M.S. student in Tianjin Key Laboratory of Visual Computing and Intelligent Perception (VCIP) and [Media Computing Lab (MCLab)](https://mmcheng.net/) at the College of Computer Science, Nankai University, supervised by Prof. [Xialei Liu](https://mmcheng.net/xliu/). Prior to this, I received my bachelor’s degree from College of Cyberspace Security, Nankai University.
 
-My research interests lie in Continual Learning and Multi-modal Large Language Models (MLLMs). 
+My current research interests lie in enhancing models' adaptability to complex, real-world environments and empowering them with human-like capabilities for lifelong knowledge acquisition. Specifically, my research focuses on:
 
-My current research remains dedicated to enhancing the adaptability, and foundational representation of MLLMs:
+- Continual Learning: Continuously expanding the boundaries of model capabilities across sequential tasks while overcoming the catastrophic forgetting of previously acquired knowledge.
+- Self-evolving Agent: Enabling agents and foundation models to summarize experiences and evolve within their environments, achieved through memory mechanisms and representation learning.
 
-- Continual Learning: 
-- Self-evolving Agent: 
-
-If you're interested in my research or have any research-related questions, please feel free to contact me via email at luhaori [at] mail.nankai.edu.cn or luhaori2001 [at] gmail.com.
+If you're interested in my research or have any research-related questions, please feel free to contact me via email at [luhaori [at] mail.nankai.edu.cn](mailto:luhaori@mail.nankai.edu.cn) or [luhaori2001 [at] gmail.com](mailto:luhaori2001@gmail.com).
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -40,6 +38,7 @@ If you're interested in my research or have any research-related questions, plea
 [Restoring Forgotten Knowledge in Non-Exemplar Class Incremental Learning through Test-Time Semantic Evolution](https://arxiv.org/pdf/2503.16793?)
 
 **Haori Lu**, Xusheng Cao, Linlan Huang, Enguang Wang, Fei Yang, Xialei Liu
+[**Paper**](https://arxiv.org/pdf/2503.16793?)
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -52,6 +51,7 @@ If you're interested in my research or have any research-related questions, plea
 [Bridging Inter-task Gap of Continual Self-supervised Learning with External Data](https://ieeexplore.ieee.org/abstract/document/11219200)
 
 **Haori Lu**, Xusheng Cao, Linlan Huang, Enguang Wang, Fei Yang, Xialei Liu
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/11219200)
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -64,6 +64,7 @@ If you're interested in my research or have any research-related questions, plea
 [Knowledge Graph Enhanced Generative Multi-modal Models for Class-Incremental Learning](https://proceedings.neurips.cc/paper_files/paper/2025/file/7b6d77bf723ab4fed4f88baf544683fb-Paper-Conference.pdf)
 
 Xusheng Cao, **Haori Lu**, Linlan Huang, Fei Yang, Xialei Liu, Ming-Ming Cheng
+[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2025/file/7b6d77bf723ab4fed4f88baf544683fb-Paper-Conference.pdf)
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -76,18 +77,20 @@ Xusheng Cao, **Haori Lu**, Linlan Huang, Fei Yang, Xialei Liu, Ming-Ming Cheng
 [Mind the Gap: Preserving and Compensating for the Modality Gap in CLIP-based Continual Learning](https://openaccess.thecvf.com/content/ICCV2025/papers/Huang_Mind_the_Gap_Preserving_and_Compensating_for_the_Modality_Gap_ICCV_2025_paper.pdf)
 
 Linlan Huang, Xusheng Cao, **Haori Lu**, Yifan Meng, Fei Yang, Xialei Liu
+[**Paper**](https://openaccess.thecvf.com/content/ICCV2025/papers/Huang_Mind_the_Gap_Preserving_and_Compensating_for_the_Modality_Gap_ICCV_2025_paper.pdf) [**Code**](https://github.com/linlany/MindtheGap)
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/papers/OOD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Class Incremental Learning for Image Classification with Out-of-Distribution Task Identification](https://ieeexplore.ieee.org/abstract/document/10891611)
 
 Xusheng Cao, **Haori Lu**, Xialei Liu, Ming-Ming Cheng
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/10891611)
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -100,22 +103,21 @@ Xusheng Cao, **Haori Lu**, Xialei Liu, Ming-Ming Cheng
 [Class-Incremental Learning with CLIP: Adaptive Representation Adjustment and Parameter Fusion](https://arxiv.org/pdf/2407.14143?)
 
 Linlan Huang, Xusheng Cao, **Haori Lu**, Xialei Liu
-
-[**Code**](https://github.com/linlany/RAPF)
+[**Paper**](https://arxiv.org/pdf/2407.14143?) [**Code**](https://github.com/linlany/RAPF)
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/papers/GMM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generative Multi-modal Models are Good Class Incremental Learners](https://openaccess.thecvf.com/content/CVPR2024/papers/Cao_Generative_Multi-modal_Models_are_Good_Class_Incremental_Learners_CVPR_2024_paper.pdf)
 
 Xusheng Cao, **Haori Lu**, Linlan Huang, Xialei Liu, Ming-Ming Cheng
 
-[**Code**](https://github.com/DoubleClass/GMM)
+[**Paper**](https://openaccess.thecvf.com/content/CVPR2024/papers/Cao_Generative_Multi-modal_Models_are_Good_Class_Incremental_Learners_CVPR_2024_paper.pdf) [**Code**](https://github.com/DoubleClass/GMM)
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->

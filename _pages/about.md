@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a M.S. student in Tianjin Key Laboratory of Visual Computing and Intelligent Perception (VCIP) and [Media Computing Lab (MCLab)](https://mmcheng.net/) at the College of Computer Science, Nankai University, supervised by Prof. [Xialei Liu](https://mmcheng.net/xliu/). Prior to this, I received my bachelor’s degree from College of Cyberspace Security, Nankai University.
+I am currently Ph.D. student in [Computer Vision and Machine Learning Group](https://vision.ischool.illinois.edu/) at University of Illinois Urbana-Champaign, supervised by Prof. [Yaoyao Liu](https://yaoyaoliu.web.illinois.edu/). Before that, I recieved a Master's degree at the College of Computer Science, Nankai University, supervised by Prof. [Xialei Liu](https://mmcheng.net/xliu/), and I received my bachelor’s degree from College of Cyberspace Security, Nankai University.
 
 My current research interests lie in enhancing models' adaptability to complex, real-world environments and empowering them with human-like capabilities for lifelong knowledge acquisition. Specifically, my research focuses on:
 
 - **Continual Learning**: Continuously expanding the boundaries of model capabilities across sequential tasks while overcoming the catastrophic forgetting of previously acquired knowledge.
 - **Self-evolving Agent**: Enabling agents and foundation models to summarize experiences and evolve within their environments, achieved through memory mechanisms and representation learning.
 
-If you're interested in my research or have any research-related questions, please feel free to contact me via email at [luhaori [at] mail.nankai.edu.cn](mailto:luhaori@mail.nankai.edu.cn) or [luhaori2001 [at] gmail.com](mailto:luhaori2001@gmail.com).
+If you're interested in my research or have any research-related questions, please feel free to contact me via email at [haorilu2 [at] illinois.edu](mailto:haorilu2@illinois.edu) or [luhaori2001 [at] gmail.com](mailto:luhaori2001@gmail.com).
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

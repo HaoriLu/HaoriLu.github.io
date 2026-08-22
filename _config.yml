@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haori Lu"
-description              : "M.S. Student at VCIP@MCLab"
+description              : "Ph.D. Student at CVML Group"
 repository               : "HaoriLu/HaoriLu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Haori Lu"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Nankai University"
-  location         : "Tianjin, China"
+  avatar           : "images/photo.jpg"
+  bio              : "University of Illinois Urbana-Champaign"
+  location         : "Champaign, IL, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=fxUkAsYAAAAJ&hl=zh-CN&oi=ao"
-  email            : "luhaori@mail.nankai.edu.cn"
+  email            : "haorilu2@illinois.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : https://www.linkedin.com/in/haori-lu-38b6703a3/
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :

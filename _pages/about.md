@@ -136,7 +136,8 @@ Xusheng Cao, **Haori Lu**, Linlan Huang, Xialei Liu, Ming-Ming Cheng
 - *2024.01* Champaign of [2nd Greater Bay Area International Algorithm Case Competition – Continual Learning Track](https://iacc.pazhoulab-huangpu.com/)
 
 # 📖 Educations
-- *2023.09 - 2026.06 (now)*, M.S. in Computer Technology, Nankai University, Tianjin, China.
+- *2026.08 - Present*, Ph.D. in Information Sciences, University of Illinois Urbana-Champaign, Illinois, USA.
+- *2023.09 - 2026.06*, M.S. in Computer Technology, Nankai University, Tianjin, China.
 - *2019.09 - 2023.06*, B.S. in Information Security and Law, Nankai University, Tianjin, China.
 
 # 💻 Internships

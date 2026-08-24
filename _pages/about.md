@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a first-year Ph.D. student in [Computer Vision and Machine Learning Group](https://vision.ischool.illinois.edu/) at University of Illinois Urbana-Champaign, advised by Prof. [Yaoyao Liu](https://yaoyaoliu.web.illinois.edu/) and co-advised by Prof. [Yingying Li](https://www.yingying.li/). Before that, I recieved a Master's degree at the College of Computer Science, Nankai University, supervised by Prof. [Xialei Liu](https://mmcheng.net/xliu/), and I received my bachelor’s degree from College of Cyberspace Security, Nankai University.
+I am currently a first-year Ph.D. student in [Computer Vision and Machine Learning Group](https://vision.ischool.illinois.edu/) at University of Illinois Urbana-Champaign, advised by Prof. [Yaoyao Liu](https://yaoyaoliu.web.illinois.edu/) and Prof. [Yingying Li](https://www.yingying.li/). Before that, I recieved a Master's degree at the College of Computer Science, Nankai University, supervised by Prof. [Xialei Liu](https://mmcheng.net/xliu/), and I received my bachelor’s degree from College of Cyberspace Security, Nankai University.
 
 My current research interests lie in enhancing models' adaptability to complex, real-world environments and empowering them with human-like capabilities for lifelong knowledge acquisition. Specifically, my research focuses on:
 

@@ -32,6 +32,20 @@ If you're interested in my research or have any research-related questions, plea
 
 # 📝 Publications 
 
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+
+**Preprint · 2026**
+
+[Self-Improving Agents with World Model Predictive Paths](https://arxiv.org/abs/2610.28945)
+
+**Haori Lu**, Tianyu Gao, Yaoyao Liu, Yingying Li
+
+[**[Paper]**](https://arxiv.org/abs/2610.28945)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/papers/RoSE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -146,5 +160,5 @@ Xusheng Cao, **Haori Lu**, Linlan Huang, Xialei Liu, Ming-Ming Cheng
 
 # 💬 Services
 Reviewer: 
-- Conference: CVPR, ICCV, ECCV, ICML, BMVC
+- Conference: CVPR, ICCV, ECCV, ICML, ICLR, BMVC
 - Journal: IJCV

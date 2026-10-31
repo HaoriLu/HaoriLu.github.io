@@ -30,12 +30,12 @@ If you're interested in my research or have any research-related questions, plea
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications 
+<span class='anchor' id='preprints'></span>
 
-<div class='paper-box'>
+# 📄 Preprints
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/WM-predictive-paths.png' alt="Overview of Self-Improving Agents with World Model Predictive Paths" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-**Preprint · 2026**
 
 [Self-Improving Agents with World Model Predictive Paths](https://arxiv.org/abs/2610.28945)
 
@@ -45,6 +45,8 @@ If you're interested in my research or have any research-related questions, plea
 
 </div>
 </div>
+
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='images/papers/RoSE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
